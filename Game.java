@@ -1,7 +1,7 @@
 public class Game {
 	private int rolls[] = new int[21];
 	private int currentRoll = 0;
-	private String dog = 0; //dog
+	private String dog = 0;
 	private String cat2 = 0;
 
 	
