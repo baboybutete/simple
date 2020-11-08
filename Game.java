@@ -3,6 +3,7 @@ public class Game {
 	private int currentRoll = 0;
 	private String dog = 0;
 	private String cat2 = 0;
+
 	
 	public void roll(int pins) {
 		rolls[currentRoll++] = pins;
